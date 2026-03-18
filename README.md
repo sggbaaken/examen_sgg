@@ -2,9 +2,9 @@
 
 # 1. Estructura del proyecto
 
-1. He creado un repositorio en GitHub
-2. Lo he clonado en mi portátil
-3. Se ha creado un archivo main.py con el código del enunciado
+1. He creado un **repositorio en GitHub**
+2. Lo he **clonado** en mi portátil
+3. Se ha creado un **archivo main.py** con el código del enunciado
 
 # 2. Programa en Python
 
@@ -21,16 +21,16 @@ print (f"Juan tiene {edad} años")
 
 |Nombre archivo | Descripción |
 |-------------- | ----------- |
-|main.py        | Archivo de Python|
+|main.py        | Archivo de *Python*|
 |README.md      | Documentación del programa|
 
 
 # 4. Descripción del programa
 
-- El programa main.py tiene dos variables
+- **El programa main.py tiene dos variables:**
   - la primera se refiere al nombre de una persona
   - la segunda a su edad
-- Salida por consola:
+- **Salida por consola:**
   - Línea del nombre
   - Línea de la edad
   - línea completa con nombre y edad
@@ -40,6 +40,10 @@ print (f"Juan tiene {edad} años")
   - GitHub
   - Python
   - Markdown
+
+  # 6. Conclusión
+
+  - Ejercicio completo que integra las tres tecnologías estudiadas durante este semestre en esta asignatura: **Git GitHub, Python, Markdown**
 
 
 
