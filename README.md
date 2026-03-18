@@ -35,5 +35,11 @@ print (f"Juan tiene {edad} años")
   - Línea de la edad
   - línea completa con nombre y edad
 
-  
+  # 5. Tecnologías utilizadas
+  - Git
+  - GitHub
+  - Python
+  - Markdown
+
+
 
